@@ -1,0 +1,21 @@
+{
+  "name": "980discordbot",
+  "version": "1.0.0",
+  "description": "\"# 980DiscordBot\"",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/panuwit009/980DiscordBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.25.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
